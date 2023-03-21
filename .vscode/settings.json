@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.port": 5501,
+    "python.analysis.extraPaths": [
+        "./ui/register_ui",
+        "./ui"
+    ]
+}
